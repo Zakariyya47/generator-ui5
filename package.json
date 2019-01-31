@@ -1,0 +1,16 @@
+{
+  "name": "generator-ui5",
+  "version": "0.0.1",
+  "description": "BMW Yeoman generator for UI5 apps",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Rikus.van_Vuuren@partner.bmw.co.za",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  }
+}

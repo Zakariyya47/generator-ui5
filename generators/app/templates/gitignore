@@ -1,0 +1,34 @@
+# UI5 build
+dist/
+
+# Node (see https://github.com/github/gitignore/blob/master/Node.gitignore)
+node_modules/
+npm-debug.log*
+.grunt
+.eslintcache
+
+# Eclipse (see https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore)
+.settings/
+
+# Microsoft Office (see https://github.com/github/gitignore/blob/master/Global/MicrosoftOffice.gitignore)
+*.tmp
+~$*.doc*
+Backup of *.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+
+# Windows (see https://github.com/github/gitignore/blob/master/Global/Windows.gitignore)
+Thumbs.db
+ehthumbs.db
+*.stackdump
+[Dd]esktop.ini
+*.lnk
+
+# macOS (see https://github.com/github/gitignore/blob/master/Global/macOS.gitignore)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*

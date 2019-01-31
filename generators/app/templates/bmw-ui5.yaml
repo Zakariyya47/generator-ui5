@@ -1,0 +1,26 @@
+# Human readable desctipion e.g. My Awesome App
+DESCRIPTION: <%= DESCRIPTION %>
+
+# Exact SAPUI5 library version
+SAPUI5_VERSION: <%= SAPUI5_VERSION %>
+
+# ABAP Front-end Server host, e.g. ttpddi30.bmwgroup.net
+FES_HOST: <%= FES_HOST %>
+
+# ABAP Front-end Server port, e.g. 8030
+FES_PORT: <%= FES_PORT %>
+
+# ABAP Front-end Server client, e.g. '010'
+FES_CLIENT: '<%= FES_CLIENT %>'
+
+# ABAP package
+FES_PACKAGE: <%= FES_PACKAGE %>
+
+# BSP container e.g. bmw/some-app
+FES_BSP_CONTAINER: <%= FES_BSP_CONTAINER %>
+
+# BSP container description e.g. Some app
+FES_BSP_CONTAINER_DESCRIPTION: <%= FES_BSP_CONTAINER_DESCRIPTION %>
+
+# Workbench request ID
+FES_TRANSPORT: <%= FES_TRANSPORT %>
